@@ -1,0 +1,61 @@
+body{
+    background-color:rgb(60, 112, 128);
+}
+
+.link{
+    word-spacing: 15px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(221, 40, 40);
+    text-align: center;
+    word-spacing: 0px;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+    word-spacing: 0px;
+}
+
+h3{
+    color: yellowgreen;
+    text-align: center;
+    word-spacing: 0px;
+}
+
+
+li{
+    list-style: none;
+    text-align: center;
+    word-spacing: 0px;
+    list-style-position: inside
+    
+}
+.orta{
+    text-align: center;
+}
+.altkisim{
+    margin: auto;
+    width: 1000px;
+    height: 110px;
+    text-align: center;
+    display: flex;            
+    justify-content: center;            
+    align-items: center;
+}
+.altkisim div{
+    float: left;
+    padding-left: 50px;
+
+}
+.altkisim p{
+    text-align: center;
+}
+.altkisim img{
+    margin: auto;
+}
+.baslık{
+    text-align: left;
+}
